@@ -8,6 +8,6 @@ public class CommitTest {
     public void testForCommits() {
         System.out.println("My First commit");
         System.out.println("My Second commit");
-        System.out.println("Third commit");
+        System.out.println("My Third commit");
     }
 }
